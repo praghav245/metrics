@@ -1,0 +1,6 @@
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\bin\Debug\analytics_visual.exe.config
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\bin\Debug\analytics_visual.exe
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\bin\Debug\analytics_visual.pdb
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\obj\Debug\analytics_visual.csprojResolveAssemblyReference.cache
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\obj\Debug\analytics_visual.exe
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visual\obj\Debug\analytics_visual.pdb

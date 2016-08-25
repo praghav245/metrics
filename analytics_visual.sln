@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analytics_visual", "analytics_visual\analytics_visual.csproj", "{84727AB4-8E54-46C6-B1F4-7912F5460987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analytics_visualTests", "analytics_visualTests\analytics_visualTests.csproj", "{63FE54E3-12A5-4B6D-81B7-27402184371C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84727AB4-8E54-46C6-B1F4-7912F5460987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84727AB4-8E54-46C6-B1F4-7912F5460987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84727AB4-8E54-46C6-B1F4-7912F5460987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84727AB4-8E54-46C6-B1F4-7912F5460987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FE54E3-12A5-4B6D-81B7-27402184371C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FE54E3-12A5-4B6D-81B7-27402184371C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FE54E3-12A5-4B6D-81B7-27402184371C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FE54E3-12A5-4B6D-81B7-27402184371C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

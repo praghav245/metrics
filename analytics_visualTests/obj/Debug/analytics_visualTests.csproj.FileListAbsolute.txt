@@ -1,0 +1,8 @@
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\bin\Debug\analytics_visualTests.dll
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\bin\Debug\analytics_visualTests.pdb
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\bin\Debug\analytics_visual.exe
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\bin\Debug\analytics_visual.pdb
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\obj\Debug\analytics_visualTests.csprojResolveAssemblyReference.cache
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\obj\Debug\analytics_visualTests.dll
+C:\Users\rppendya\Documents\Visual Studio 2015\Projects\analytics_visual\analytics_visualTests\obj\Debug\analytics_visualTests.pdb
